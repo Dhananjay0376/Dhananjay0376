@@ -27,18 +27,6 @@ I'm a passionate developer who loves building practical solutions that solve rea
 - Helps users search temples and plan pilgrimages
 - [Live Demo](https://bhaktipath.netlify.app/)
 
-### 🌫️ [AQI Predictor](https://github.com/Dhananjay0376/AQI-Predictor)
-**Air Quality Forecasting ML Model**
-- Trained scikit-learn model for AQI prediction
-- Deployed with Streamlit for easy interaction
-- Built during DeployX bootcamp
-
-### 💰 [Customer Purchase Prediction](https://github.com/Dhananjay0376/Customer-Purchase-Prediction)
-**End-to-End ML Pipeline**
-- Complete ML pipeline from data preprocessing to deployment
-- Predicts customer purchase behavior
-- Includes model training, evaluation, and deployment code
-
 ## 💻 Tech Stack
 
 **Languages:**  
