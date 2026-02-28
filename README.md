@@ -56,7 +56,7 @@ I'm a passionate developer who loves building practical solutions that solve rea
 - 📱 Published mobile app on Google Play Store
 - 🎓 Pre-college developer (started building apps before university)
 - 🏗️ Multiple hackathon participations and project deployments
-- 🚀 Founder of AnkJyotish (numerology education platform)
+- 🚀 Founder of AnkJyotish (platform for numerologists)
 
 ## 🤝 Let's Connect
 
